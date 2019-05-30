@@ -6,10 +6,19 @@
     <description>Recent content on Em Lisboa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 May 2019 18:01:01 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2019 18:27:41 +0100</lastBuildDate>
     
 	<atom:link href="https://gpetrosini.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My Second Post</title>
+      <link>https://gpetrosini.github.io/posts/my-second-post/</link>
+      <pubDate>Tue, 28 May 2019 18:27:41 +0100</pubDate>
+      
+      <guid>https://gpetrosini.github.io/posts/my-second-post/</guid>
+      <description>Assignment repo</description>
+    </item>
     
     <item>
       <title>My First Post</title>

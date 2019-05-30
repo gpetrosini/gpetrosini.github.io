@@ -4,19 +4,24 @@
   
   <url>
     <loc>https://gpetrosini.github.io/</loc>
-    <lastmod>2019-05-28T18:01:01+01:00</lastmod>
+    <lastmod>2019-05-28T18:27:41+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gpetrosini.github.io/posts/my-second-post/</loc>
+    <lastmod>2019-05-28T18:27:41+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gpetrosini.github.io/posts/</loc>
+    <lastmod>2019-05-28T18:27:41+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://gpetrosini.github.io/posts/my-first-post/</loc>
     <lastmod>2019-05-28T18:01:01+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gpetrosini.github.io/posts/</loc>
-    <lastmod>2019-05-28T18:01:01+01:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
